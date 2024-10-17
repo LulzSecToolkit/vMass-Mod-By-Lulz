@@ -6,3 +6,4 @@ cpan install HTTP::Request::Common
 cpan install WWW::Mechanize
 cpan install Term::ANSIColor
 echo "Perl Modules Installed Successfully. ✔";
+
