@@ -17,7 +17,7 @@ else                      { system("clear"); }
 #----------->  Main Program  <-----------#
 sub CMS_BANNER {
 
-    system("title vMASS BOT 1.2");
+    system("title vMASS BOT 1.2 #LulzMod");
 
     if   ( $^O =~ /MSWin32/ ) { system("cls"); }
     else                      { system("clear"); }
@@ -32,15 +32,14 @@ sub CMS_BANNER {
                 \ \ / /    \ / _` / __/ __| | '_ \ / _ \| __|
                  \ V / /\/\ \ (_| \__ \__ \ | |_) | (_) | |_ 
                   \_/\/    \/\__,_|___/___/ |_.__/ \___/ \__|
-                                                 FREE VERSION
+                                               
                                 Coded by Dpr
-                          https://github.com/c99tn
-                             https://t.me/dpr52
+                               Edited By 0x24
                              
                              
-                          vMass Bot - Version v1.2
+                          vMass Bot - Version v1.2 #LulzMod
                          
-    LAST UPDATE : 09-17-22 ~ LAST EXPLOIT ADDED : WordPress Elementor Plugin (CVE-2020-7055) 
+    LAST UPDATE : 06-29-24 ~ LAST EXPLOIT ADDED : WordPress Elementor Plugin (CVE-2024-5666) 
     
 );
 print color('reset');
@@ -53,11 +52,11 @@ print color('reset');
           ░╚████╔╝░██║╚██╔╝██║██╔══██║░╚═══██╗░╚═══██╗  ██╔══██╗██║░░██║░░░██║░░░
           ░░╚██╔╝░░██║░╚═╝░██║██║░░██║██████╔╝██████╔╝  ██████╦╝╚█████╔╝░░░██║░░░
           ░░░╚═╝░░░╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═════╝░╚═════╝░  ╚═════╝░░╚════╝░░░░╚═╝░░░            
-                                                                     FREE VERSION  
+                                                                      
 
                                        Coded by Dpr
-                                 https://github.com/c99tn
-                                    https://t.me/dpr52
+                                      Edited By 0x24
+                                   
 " );
     print color('reset');
     print color('bold blue');
@@ -66,7 +65,7 @@ print color('reset');
     );
     print color('reset');
     print q(
-    LAST UPDATE : 09-17-22 ~ LAST EXPLOIT ADDED : WordPress Elementor Plugin (CVE-2020-7055) 
+    LAST UPDATE : 06-29-24 ~ LAST EXPLOIT ADDED : WordPress Elementor Plugin (CVE-2024-5666) 
 
           ╔════════════════╦═════════════╦═════════════╦════════════╦════════════╗
           ║      CMS       ║  Wordpress  ║   Joomla    ║ Prestashop ║  Magento   ║
